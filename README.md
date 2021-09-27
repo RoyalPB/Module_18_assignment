@@ -1,4 +1,4 @@
-# Module_18_assignment
+
 # Pychain_wk18_challenge
 
 This application is a blockchain-based ledger system, complete with a user-friendly web interface. This ledger allows partner banks to conduct financial transactions (transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
